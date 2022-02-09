@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+}
+a, h1 {
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    
+}
+#title {
+    text-align: center;
+}
+a {
+    cursor: pointer;
+    opacity: 0.8;
+}
+a:hover {
+    opacity: 1;
+
+}
